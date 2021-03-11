@@ -6,7 +6,7 @@
     <title>Form Handling</title>
 </head>
 <body>
-    <h1>Membuat Form Menggunakan If Else</h1>
+    <h1>Membuat Form Menggunakan Switch Case</h1>
     <form action="tampil.php" method="POST">
       Nilai Ujian : <input type="text" name="nilai">
       <input type="submit" value="Hasil">
