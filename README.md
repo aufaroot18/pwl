@@ -16,6 +16,12 @@ Repositori ini berisi code dan slide dari hasil praktikum.
 - Video: [Praktikum 2 - Array & Form](https://www.youtube.com/watch?v=xyqP6GdKVHk)
 
 ## Praktikum 3
+
 - Modul: [Praktikum 3 - Percabangan](https://elen.nurulfikri.ac.id/pluginfile.php/34703/mod_resource/content/0/praktikum02_php.pdf)
 - Code: [Praktikum 3 - Percabangan](https://github.com/aufaroot18/pwl/tree/main/Praktikum%203)
 - Record Video TI Pagi: [Praktikum 3 - Percabangan](https://drive.google.com/file/d/1jD0PkvaQ-JtiDZeTHiLoTHpcOTPJX4Hs/view?usp=sharing)
+
+## Ngoprek 1
+
+- Code: [Ngoprek 1 - Variable & Array](https://github.com/aufaroot18/pwl/tree/main/Ngoprek%201/Code)
+- Record Video: [Soon ...]()
