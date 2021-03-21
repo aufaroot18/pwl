@@ -31,3 +31,7 @@ Repositori ini berisi code dan slide dari hasil praktikum.
 ## Praktikum 4
 - Code: [Praktikum 4 - Function, Include, OOP](https://github.com/aufaroot18/pwl/tree/main/Praktikum%204)
 - Record Video TI Pagi: [Praktikum 4 - Function, Include, OOP](https://drive.google.com/file/d/1blSIW96B68jy2GrKOJLJt9OpyISGWKdv/view?usp=sharing)
+
+## Ngoprek 2
+- Code: [Ngoprek 2 - Form & Conditional](https://github.com/aufaroot18/pwl/tree/main/Ngoprek%202/Code)
+- Record Video: [Ngoprek 2 - Form & Conditional](https://drive.google.com/file/d/1fTJPz41BgSUyXlYWtOGD3NK5J0H38iOB/view?usp=sharing)
