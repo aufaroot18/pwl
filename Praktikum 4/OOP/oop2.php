@@ -12,7 +12,7 @@ class indomie{
     }
 
     function matikankompor(){
-        echo "jika sudah lalu matikan kompor dan tiriskan mie dan telor nya lalu sajikan";
+        echo "jika sudah lalu matikan kompor dan tiriskan mie lalu sajikan";
     }
 }
 
