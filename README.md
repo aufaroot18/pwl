@@ -39,3 +39,8 @@ Repositori ini berisi code dan slide dari hasil praktikum.
 ## Praktikum 5
 - Code: [Praktikum 5 - OOP](https://github.com/aufaroot18/pwl/tree/main/Praktikum%205/Code)
 - Record Video TI Pagi: [Praktikum 5 - OOP](https://drive.google.com/file/d/1FA6sSnIbkLiVIshbuR9QQePIPdmVUZHG/view?usp=sharing)
+
+## Praktikum 6
+- Video: [Praktikum 6 - Introduction CodeIgniter 3](https://youtu.be/IJFdZAWrdNs)
+- Code: [Soon](#)
+- Slide: [Soon](#)
