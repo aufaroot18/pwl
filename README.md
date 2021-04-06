@@ -26,7 +26,7 @@ Repositori ini berisi code dan slide dari hasil praktikum.
 ## Ngoprek 1
 
 - Code: [Ngoprek 1 - Variable & Array](https://github.com/aufaroot18/pwl/tree/main/Ngoprek%201/Code)
-[- Record Video: [Soon ...]()]
+- Record Video: [Soon ...]()
 
 ## Praktikum 4
 - Code: [Praktikum 4 - Function, Include, OOP](https://github.com/aufaroot18/pwl/tree/main/Praktikum%204)
@@ -41,6 +41,6 @@ Repositori ini berisi code dan slide dari hasil praktikum.
 - Record Video TI Pagi: [Praktikum 5 - OOP](https://drive.google.com/file/d/1FA6sSnIbkLiVIshbuR9QQePIPdmVUZHG/view?usp=sharing)
 
 ## Praktikum 6
-- Slide: [Praktikum 6 - Introduction CodeIgniter 3](https://github.com/aufaroot18/pwl/blob/main/Praktikum%206/Slide/Pertemuan%206.pdf)
+- Slide: [Praktikum 6 - Introduction CodeIgniter 3](https://aufaroot18.github.io/pwl/Praktikum%206/Slide/Pertemuan%206.pdf)
 - Video: [Praktikum 6 - Introduction CodeIgniter 3](https://youtu.be/IJFdZAWrdNs)
 - Code: [Praktikum 6 - Introduction CodeIgniter 3](https://github.com/aufaroot18/pwl/tree/main/Praktikum%206/Code)
