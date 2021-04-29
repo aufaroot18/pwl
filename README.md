@@ -49,3 +49,8 @@ Repositori ini berisi code dan slide dari hasil praktikum.
 - Slide: [Praktikum 7 - CodeIgniter 3: Templating](https://aufaroot18.github.io/pwl/Praktikum%207/Slide/Pertemuan%207.pdf)
 - Video: [Praktikum 7 - CodeIgniter 3: Templating](https://youtu.be/vUonoL-8FTI)
 - Code: [Praktikum 7 - CodeIgniter 3: Templating](https://github.com/aufaroot18/pwl/tree/main/Praktikum%207/Code/blog)
+
+## Praktikum 8
+- Slide: [Praktikum 8 - CodeIgniter 3: MVC](#)
+- Video: [Praktikum 8 - CodeIgniter 3: MVC](https://youtu.be/FL8BEfqT3R4)
+- Code: [Praktikum 8 - CodeIgniter 3: MVC](#)
