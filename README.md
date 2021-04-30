@@ -52,6 +52,6 @@ Repositori ini berisi code dan slide dari hasil praktikum.
 
 ## Praktikum 8
 - Modul: [Praktikum 8 - CodeIgniter 3: MVC](https://elen.nurulfikri.ac.id/pluginfile.php/35852/mod_resource/content/0/praktikum_ci_mvc.pdf)
-- Slide: [Praktikum 8 - CodeIgniter 3: MVC](#)
+- Slide: [Praktikum 8 - CodeIgniter 3: MVC](https://aufaroot18.github.io/pwl/Praktikum%208/Slide/Pertemuan%208.pdf)
 - Video: [Praktikum 8 - CodeIgniter 3: MVC](https://youtu.be/FL8BEfqT3R4)
-- Code: [Praktikum 8 - CodeIgniter 3: MVC](#)
+- Code: [Praktikum 8 - CodeIgniter 3: MVC](https://github.com/aufaroot18/pwl/tree/main/Praktikum%208/Code/blog)
