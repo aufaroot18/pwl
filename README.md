@@ -73,3 +73,9 @@ Repositori ini berisi code dan slide dari hasil praktikum.
 - Slide: [Praktikum 8 - CodeIgniter 3: MVC](https://aufaroot18.github.io/pwl/Praktikum%208/Slide/Pertemuan%208.pdf)
 - Video: [Praktikum 8 - CodeIgniter 3: MVC](https://youtu.be/FL8BEfqT3R4)
 - Code: [Praktikum 8 - CodeIgniter 3: MVC](https://github.com/aufaroot18/pwl/tree/main/Praktikum%208/Code/blog)
+
+### Praktikum 9
+- Modul: [Praktikum 9 - CodeIgniter 3: Database](https://elen.nurulfikri.ac.id/pluginfile.php/36167/mod_resource/content/0/praktikum_ci_database.pdf)
+- Slide: [Praktikum 9 - CodeIgniter 3: Database](https://docs.google.com/presentation/d/1LxA1iw53vrh0G-MJhXsjt6nHl777AU8Oe7qsy_tyrBU/edit?usp=sharing)
+- Video: [Praktikum 9 - CodeIgniter 3: Database](https://youtu.be/MYdnO-jjO8s)
+- Code: [Praktikum 9 - CodeIgniter 3: Database](#)
