@@ -82,6 +82,6 @@ Repositori ini berisi code dan slide dari hasil praktikum.
 
 ### Praktikum 10
 - Modul: [Praktikum 10 - CodeIgniter 3: Database Form Processing](#)
-- Slide: [Praktikum 10 - CodeIgniter 3: Database](https://docs.google.com/presentation/d/1BIpilXfN8JWjMlj9qiITyx7xcAX5o5kBP9rzY94ANVA/edit?usp=sharing)
-- Video: [Praktikum 10 - CodeIgniter 3: Database Form Processing](#)
+- Slide: [Praktikum 10 - CodeIgniter 3: Database Form Processing](https://docs.google.com/presentation/d/1BIpilXfN8JWjMlj9qiITyx7xcAX5o5kBP9rzY94ANVA/edit?usp=sharing)
+- Video: [Praktikum 10 - CodeIgniter 3: Database Form Processing](https://youtu.be/gAqJbEfQT1g)
 - Code: [Praktikum 10 - CodeIgniter 3: Database Form Processing](#)
