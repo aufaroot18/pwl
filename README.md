@@ -78,7 +78,7 @@ Repositori ini berisi code dan slide dari hasil praktikum.
 - Modul: [Praktikum 9 - CodeIgniter 3: Database](https://elen.nurulfikri.ac.id/pluginfile.php/36167/mod_resource/content/0/praktikum_ci_database.pdf)
 - Slide: [Praktikum 9 - CodeIgniter 3: Database](https://docs.google.com/presentation/d/1LxA1iw53vrh0G-MJhXsjt6nHl777AU8Oe7qsy_tyrBU/edit?usp=sharing)
 - Video: [Praktikum 9 - CodeIgniter 3: Database](https://youtu.be/MYdnO-jjO8s)
-- Code: [Praktikum 9 - CodeIgniter 3: Database](#)
+- Code: [Praktikum 9 - CodeIgniter 3: Database](https://github.com/aufaroot18/pwl/tree/main/Praktikum%209/Code/blog)
 
 ### Praktikum 10
 - Modul: [Praktikum 10 - CodeIgniter 3: Database Form Processing](#)
