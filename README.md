@@ -90,4 +90,4 @@ Repositori ini berisi code dan slide dari hasil praktikum.
 - Modul: [Praktikum 10 - CodeIgniter 3: Crud Operations](#)
 - Slide: [Praktikum 10 - CodeIgniter 3: Crud Operations](https://docs.google.com/presentation/d/1epLJNafEGdd5bFN2YgNf03pUK959Q48pmgHsu9_RuH8/edit?usp=sharing)
 - Video: [Praktikum 10 - CodeIgniter 3: Crud Operations](https://youtu.be/0aKGDw86urU)
-- Code: [Praktikum 10 - CodeIgniter 3: Crud Operations](#)
+- Code: [Praktikum 10 - CodeIgniter 3: Crud Operations](https://github.com/aufaroot18/pwl/tree/main/Praktikum%2011/Code/resource)
