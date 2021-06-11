@@ -85,3 +85,9 @@ Repositori ini berisi code dan slide dari hasil praktikum.
 - Slide: [Praktikum 10 - CodeIgniter 3: Database Form Processing](https://docs.google.com/presentation/d/1BIpilXfN8JWjMlj9qiITyx7xcAX5o5kBP9rzY94ANVA/edit?usp=sharing)
 - Video: [Praktikum 10 - CodeIgniter 3: Database Form Processing](https://youtu.be/gAqJbEfQT1g)
 - Code: [Praktikum 10 - CodeIgniter 3: Database Form Processing](https://github.com/aufaroot18/pwl/tree/main/Praktikum%2010/Code/blog)
+
+### Praktikum 11
+- Modul: [Praktikum 10 - CodeIgniter 3: Crud Operations](#)
+- Slide: [Praktikum 10 - CodeIgniter 3: Crud Operations](https://docs.google.com/presentation/d/1epLJNafEGdd5bFN2YgNf03pUK959Q48pmgHsu9_RuH8/edit?usp=sharing)
+- Video: [Praktikum 10 - CodeIgniter 3: Crud Operations](https://youtu.be/0aKGDw86urU)
+- Code: [Praktikum 10 - CodeIgniter 3: Crud Operations](#)
