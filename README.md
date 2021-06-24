@@ -87,7 +87,13 @@ Repositori ini berisi code dan slide dari hasil praktikum.
 - Code: [Praktikum 10 - CodeIgniter 3: Database Form Processing](https://github.com/aufaroot18/pwl/tree/main/Praktikum%2010/Code/blog)
 
 ### Praktikum 11
-- Modul: [Praktikum 10 - CodeIgniter 3: Crud Operations](#)
-- Slide: [Praktikum 10 - CodeIgniter 3: Crud Operations](https://docs.google.com/presentation/d/1epLJNafEGdd5bFN2YgNf03pUK959Q48pmgHsu9_RuH8/edit?usp=sharing)
-- Video: [Praktikum 10 - CodeIgniter 3: Crud Operations](https://youtu.be/0aKGDw86urU)
-- Code: [Praktikum 10 - CodeIgniter 3: Crud Operations](https://github.com/aufaroot18/pwl/tree/main/Praktikum%2011/Code/resource)
+- Modul: [Praktikum 11 - CodeIgniter 3: Crud Operations](#)
+- Slide: [Praktikum 11 - CodeIgniter 3: Crud Operations](https://docs.google.com/presentation/d/1epLJNafEGdd5bFN2YgNf03pUK959Q48pmgHsu9_RuH8/edit?usp=sharing)
+- Video: [Praktikum 11 - CodeIgniter 3: Crud Operations](https://youtu.be/0aKGDw86urU)
+- Code: [Praktikum 11 - CodeIgniter 3: Crud Operations](https://github.com/aufaroot18/pwl/tree/main/Praktikum%2011/Code/resource)
+
+### Praktikum 12
+- Modul: [Praktikum 12 - CodeIgniter 3: Session](#)
+- Slide: [Praktikum 12 - CodeIgniter 3: Session](https://docs.google.com/presentation/d/1cQZpskJzO9TwtbwBENveCWz7xfENhnorLpo08Orply4/edit?usp=sharing)
+- Video: [Praktikum 12 - CodeIgniter 3: Session](https://youtu.be/HpfaR3get0Y)
+- Code: [Praktikum 12 - CodeIgniter 3: Session](#)
