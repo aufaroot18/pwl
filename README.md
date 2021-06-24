@@ -97,3 +97,9 @@ Repositori ini berisi code dan slide dari hasil praktikum.
 - Slide: [Praktikum 12 - CodeIgniter 3: Session](https://docs.google.com/presentation/d/1cQZpskJzO9TwtbwBENveCWz7xfENhnorLpo08Orply4/edit?usp=sharing)
 - Video: [Praktikum 12 - CodeIgniter 3: Session](https://youtu.be/HpfaR3get0Y)
 - Code: [Praktikum 12 - CodeIgniter 3: Session](https://github.com/aufaroot18/pwl/tree/main/Praktikum%2012/Code/blog)
+
+### Praktikum 13
+- Modul: [Praktikum 13 - CodeIgniter 3: File Upload](#)
+- Slide: [Praktikum 13 - CodeIgniter 3: File Upload](https://docs.google.com/presentation/d/1InSnMbVEkS8jYWRSePybrw90wMfXyE571s67fuI9_tQ/edit?usp=sharing)
+- Video: [Praktikum 13 - CodeIgniter 3: File Upload](#)
+- Code: [Praktikum 13 - CodeIgniter 3: File Upload](#)
