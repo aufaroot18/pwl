@@ -1,2 +1,14 @@
-title: Praktikum Web Lanjutan
 remote_theme: daattali/beautiful-jekyll
+
+# Title Website and Author
+title: Praktikum Web Lanjutan
+author: Aufa Billah
+
+# Navbar
+navbar-links:
+  About Me: "aboutme"
+  Authors: "https://aufaroot18.github.io/"
+
+# Avatar Icon
+avatar: "/assets/img/avatar-icon.png"
+round-avatar: true
