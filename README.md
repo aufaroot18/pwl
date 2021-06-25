@@ -101,5 +101,5 @@ Repositori ini berisi code dan slide dari hasil praktikum.
 ### Praktikum 13
 - Modul: [Praktikum 13 - CodeIgniter 3: File Upload](#)
 - Slide: [Praktikum 13 - CodeIgniter 3: File Upload](https://docs.google.com/presentation/d/1InSnMbVEkS8jYWRSePybrw90wMfXyE571s67fuI9_tQ/edit?usp=sharing)
-- Video: [Praktikum 13 - CodeIgniter 3: File Upload](#)
-- Code: [Praktikum 13 - CodeIgniter 3: File Upload](https://youtu.be/qgDP_LXSDOw)
+- Video: [Praktikum 13 - CodeIgniter 3: File Upload](https://youtu.be/qgDP_LXSDOw)
+- Code: [Praktikum 13 - CodeIgniter 3: File Upload](https://github.com/aufaroot18/pwl/tree/main/Praktikum%2013/Code/blog)
